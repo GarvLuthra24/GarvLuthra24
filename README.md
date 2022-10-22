@@ -5,7 +5,7 @@
 - 📫 How to reach me ... linkedin profile : 
 https://www.linkedin.com/in/garv-luthra-953374187
 
-Sme badges that I won during Hacktoberfest 2022:
+Some badges that I won during Hacktoberfest 2022:
 [![@garv's Holopin board](https://holopin.me/garv)](https://holopin.io/@garv)
 
 <!---
